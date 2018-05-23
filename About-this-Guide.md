@@ -12,8 +12,9 @@ The content in this guide is appropriate for use by (but not strictly limited to
 - Systems/Network Administrators
 - CISO
 - Security Architect
-	
 
+<br />
+<br />
 Use the following activities to evaluate your needs, design a network based on your evaluation and, implement an Azure network:
 
 1. [Evaluating and Preparing for Azure Networking](https://github.com/nmcgregor/Azure-Networking/blob/master/1.0-Evaluating-and-Preparing-for-Azure-Networking.md):  Use the information in this section to analyze and evaluate your organization's business and networking requirements and prepare to migrate your network to Azure. 
