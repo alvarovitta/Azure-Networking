@@ -1,9 +1,7 @@
 # About this Guide
 
 Use this guide to design, configure and implement an Azure network for your organization. 
-<br />
-<br />
-<br />
+
 The content in this guide is appropriate for use by (but not strictly limited to) individuals with the following areas of responsibility:
 
 - Network Architects
@@ -27,7 +25,8 @@ Use the following activities to evaluate your needs, design a network based on y
 
 5. [Operationalizing Azure Networking](https://github.com/nmcgregor/Azure-Networking/blob/master/5.0-Operationalizing-Azure-Networking.md):  Use the guidance and procedures described in this section to bring your network environment into a fully operational state. 
 
-
+<br />
+<br />
 
 ## Next steps
 [Evaluating and Preparing for Azure Networking](https://github.com/nmcgregor/Azure-Networking/blob/master/1.0-Evaluating-and-Preparing-for-Azure-Networking.md)
