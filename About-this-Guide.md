@@ -1,6 +1,7 @@
-<br /># About this Guide
+# About this Guide
 
 Use this guide to design, configure and implement an Azure network for your organization. 
+<br />
 <br />
 <br />
 The content in this guide is appropriate for use by (but not strictly limited to) individuals with the following areas of responsibility:
