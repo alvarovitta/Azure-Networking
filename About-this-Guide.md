@@ -11,7 +11,7 @@ The content in this guide is appropriate for use by (but not strictly limited to
 - CISO
 - Security Architect
 
-<br />
+
 <br />
 Use the following activities to evaluate your needs, design a network based on your evaluation and, implement an Azure network:
 
