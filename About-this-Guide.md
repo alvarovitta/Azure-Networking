@@ -5,12 +5,12 @@ Use this guide to design, configure and implement an Azure network for your orga
 
 The content in this guide is appropriate for use by (but not strictly limited to) individuals with the following areas of responsibility:
 
-	• Network Architects
-	• Enterprise Architects 
-	• IT Architects 
-	• Systems/Network Administrators
-	• CISO
-	• Security Architect
+- Network Architects
+- Enterprise Architects 
+- IT Architects 
+- Systems/Network Administrators
+- CISO
+- Security Architect
 	
 
 Use the following activities to evaluate your needs, design a network based on your evaluation and, implement an Azure network:
