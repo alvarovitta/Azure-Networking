@@ -1,0 +1,76 @@
+Use the information described in this section to prepare to integrate your network infrastructure with Azure.  
+ 
+
+Perform an analysis to assess your current network resources. Use this assessment to identify the resources and configuration required to connect to the Azure cloud and consume services.
+  
+For your on-premises network:
+	• Analyze and identify client computers to optimize application usage requirements. The analysis should include optimizing client network computer hardware, software, protocol settings, internet browsers.
+	 
+	• Review and analyze the on-site applications you intend to move to the cloud. Include data usage and workload requirements in your analysis to identify the end-to-end latency requirements and the number of traffic flows the applications opens. 
+	 
+	• Analyze your on-site network for traffic latency and optimal routing to the Internet edge device.
+	 
+	• Analyze the capacity and performance of your edge devices and optimize for higher levels of traffic. For further information, see: Planning and Design for VPN Gateway. 
+	 
+	• Identify the compatible service providers for the regional location of the Microsoft Cloud service to which you wish to connect. Plan for your connectivity provider to supply high availability connectivity so there are no single points of failure. 
+	 
+	• Identify and review network security requirements. Ensure the on-site security standards closely match those of your cloud deployment. For further information, see: Securing your Network Dataflow.
+	 
+	• Plan your IP Addresses before implementing new Azure networks to avoid IP address overlap. Use the worksheet provided in Appendix A - IP Addressing Planning Tables to map your network IP addresses. 
+ 
+	 
+For your internet connection:
+	• Analyze the latency between your Internet edge devices (such as your external firewall) and the regional Microsoft cloud service locations to which you are connecting.
+	 
+	• Analyze the bandwidth capacity and usage of your current Internet connection. Add capacity if needed. 
+
+
+
+Preparing your on-premises network for Azure
+Perform the following to prepare your on-premises network:
+	1. Determine the type of VPN solutions you wish to use to connect your on-premises network to Microsoft Azure see: S2S VPN or ExpressRoute. 
+	
+	2. Prepare your on-premises edge device prior to implementing the cloud solution, see: On-premises device or router. 
+	
+	3. Prepare the routing to make the address space of your cloud environment reachable, see: Add routes to your intranet. 
+	
+	4. Add necessary perimeter security changes to accommodate communication from the cloud (firewall permissions)
+ 
+ 
+ 
+Preparing to implement your Azure network
+Perform the following to prepare your Azure Network:
+	1. Determine the Azure Regions (i.e. Canada Central or Canada East or East US) you will use to host your virtual networks.
+	
+	2. Determine if you require communication between your Azure Regions.
+	
+	3. Determine the type of VNet to use, see: Cloud-Only or Cross-Premise.
+	
+	4. Determine the address space for the VNet. 
+	
+	5. Determine the subnets within the VNet and the address spaces assigned to each.
+	
+	6. Determine the local network address space for the Azure gateway, see: Local Network address space for the Azure Gateway.
+	
+	7. Determine the DNS server configuration and the addresses of the DNS servers to assign to VMs in the VNet.
+	
+	8. Configure redundant connections so that you can avoid a single point of failure for your cross-premise connectivity. If you are using Site-to-Site VPN, see: Active-Active VPN Connections. If you are using ExpressRoute, see ExpressRoute VPN Failover Connections.
+	
+	9. Determine how many Infrastructure as a Service (IaaS) virtual machines, cloud service roles and web application you require for your solution.
+	
+	10. Determine if you need to isolate and/or control traffic flow using network virtual appliances or network security groups.
+	
+	11. Determine the sets of permissions or RBAC roles you wish to implement for your Azure networking resources.
+ 
+
+ 
+Guidance
+Use the following supplemental information:
+	• We recommend using RFC1918 block in VNets instead of RFC6598. 
+	
+	• To have enough address space for government deployments, we recommend using a /23, /22, and /21 for small, medium and large VNet deployments. 
+
+
+ 
+Next steps
+Selecting a Cross-Premises Azure Networking Pattern
