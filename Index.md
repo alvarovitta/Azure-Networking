@@ -30,5 +30,5 @@ Use the following activities to evaluate your needs, design a network based on y
 <br />
 
 ## Next steps
-[Evaluating and Preparing for Azure Networking](https://github.com/nmcgregor/Azure-Networking/blob/master/1.0-Evaluating-and-Preparing-for-Azure-Networking.md)
+[Evaluating and Preparing for Azure Networking](1.0-Evaluating-and-Preparing-for-Azure-Networking.md)
 
