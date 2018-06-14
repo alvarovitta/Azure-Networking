@@ -3,7 +3,6 @@
   items:
   - name: Evaluating and Preparing for Azure Networking
     href: /alvarovitta/Azure-Networking/blob/master/1.0-Evaluating-and-Preparing-for-Azure-Networking.md
-    
     items:
       - name: Evaluating your Business Requirements
         href: /alvarovitta/Azure-Networking/blob/master/1.1-Evaluating-your-Business-Requirements-for-Azure-Networking.md
@@ -12,7 +11,6 @@
 
   - name: Selecting a Cross-Premises Azure Networking
     href: /alvarovitta/Azure-Networking/blob/master/2.0-Selecting-a-Cross-Premises-Azure-Networking-Pattern.md
-
     items:
       - name: Using a Site-to-Site VPN Pattern
         href: /alvarovitta/Azure-Networking/blob/master/2.1-Using-a-Site-to-Site-VPN-Pattern.md
@@ -20,8 +18,7 @@
         href: /alvarovitta/Azure-Networking/blob/master/2.2-Using-a-Point-to-Site-VPN-Pattern.md
       - name: Using the ExpressRoute Pattern
         href: /alvarovitta/Azure-Networking/blob/master/2.3-Using-the-ExpressRoute-Pattern.md
-	      
-        items:
+	items:
            - name: Using the Shared ExpressRoute Pattern
              href: /alvarovitta/Azure-Networking/blob/master/2.3.1-Using-the-Shared-ExpressRoute-Pattern.md
 	         - name: Using the Shared ExpressRoute with Hub and Spoke Pattern
@@ -40,7 +37,6 @@
         href: /alvarovitta/Azure-Networking/blob/master/3.2-Selecting-the-Number-of-Subnets-and-Network-Security-Groups.md
       - name: Selecting a Native Azure VNet Pattern
         href: /alvarovitta/Azure-Networking/blob/master/3.3-Selecting-a-Native-Azure-VNet-Pattern.md
-
         items:
           - name: Using the VNet-to-VNet Network Pattern
             href: /alvarovitta/Azure-Networking/blob/master/3.3.1-Using-the-VNet-to-VNet-Network-Pattern.md
@@ -50,8 +46,7 @@
              href: /alvarovitta/Azure-Networking/blob/master/3.3.3-Using-the-Mesh-Network-VNet-Pattern.md
       - name: Selecting an Azure Network DMZ Pattern
         href: /alvarovitta/Azure-Networking/blob/master/3.4-Selecting-an-Azure-Network-DMZ-Pattern.md
-         
-         items:
+        items:
            - name: Deploying a DMZ Between Azure and On-Premises
              href: /alvarovitta/Azure-Networking/blob/master/3.4.1-Deploying-a-DMZ-between-Azure-and-On-Premises.md
           - name: Deploying a DMZ Between Azure and Internet
@@ -62,8 +57,7 @@
 
   - name: Securing your Network Dataflow
     href: /alvarovitta/Azure-Networking/blob/master/4.0-Securing-your-Network-Dataflow.md
-     
-          items:
+        items:
            - name: Securing your Virtual Network Traffic
              href: /alvarovitta/Azure-Networking/blob/master/4.1-Securing-your-Virtual-Network-Traffic.md
            - name: Building a Containment Strategy
@@ -73,11 +67,9 @@
            - name: Deploying a Perimeter Network in Azure
              href: /alvarovitta/Azure-Networking/blob/master/4.4-Designing-a-Perimeter-Network-in-Azure.md
 
-- name: Operationalizing Azure Networking
-  href: /alvarovitta/Azure-Networking/blob/master/5.0-Operationalizing-Azure-Networking.md
-  
-  
-        items:
+  - name: Operationalizing Azure Networking
+    href: /alvarovitta/Azure-Networking/blob/master/5.0-Operationalizing-Azure-Networking.md
+       items:
           - name: Monitoring your Network
             href:  /alvarovitta/Azure-Networking/blob/master/5.1-Monitoring-your-Network.md
             items:
