@@ -8,7 +8,6 @@
         href: /alvarovitta/Azure-Networking/blob/master/1.1-Evaluating-your-Business-Requirements-for-Azure-Networking.md
       - name: Preparing your Network for Azure
         href: /alvarovitta/Azure-Networking/blob/master/1.2-Preparing-your-Network-for-Azure.md
-
   - name: Selecting a Cross-Premises Azure Networking
     href: /alvarovitta/Azure-Networking/blob/master/2.0-Selecting-a-Cross-Premises-Azure-Networking-Pattern.md
     items:
@@ -53,7 +52,6 @@
      
      - name: Selecting the Cross-Tenant VNet Connection Pattern
         href: /alvarovitta/Azure-Networking/blob/master/3.5-Selecting-the-Cross-Tenant-VNet-Connection-Pattern.md
-
   - name: Securing your Network Dataflow
     href: /alvarovitta/Azure-Networking/blob/master/4.0-Securing-your-Network-Dataflow.md
         items:
@@ -65,7 +63,6 @@
              href: /alvarovitta/Azure-Networking/blob/master/4.3-Designing-Network-Security-Defense.md
            - name: Deploying a Perimeter Network in Azure
              href: /alvarovitta/Azure-Networking/blob/master/4.4-Designing-a-Perimeter-Network-in-Azure.md
-
   - name: Operationalizing Azure Networking
     href: /alvarovitta/Azure-Networking/blob/master/5.0-Operationalizing-Azure-Networking.md
        items:
