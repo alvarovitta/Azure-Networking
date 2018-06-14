@@ -18,16 +18,16 @@
         href: /alvarovitta/Azure-Networking/blob/master/2.2-Using-a-Point-to-Site-VPN-Pattern.md
       - name: Using the ExpressRoute Pattern
         href: /alvarovitta/Azure-Networking/blob/master/2.3-Using-the-ExpressRoute-Pattern.md
-		items:
-           	- name: Using the Shared ExpressRoute Pattern
-            	  href: /alvarovitta/Azure-Networking/blob/master/2.3.1-Using-the-Shared-ExpressRoute-Pattern.md
-	        - name: Using the Shared ExpressRoute with Hub and Spoke Pattern
-             	  href: /alvarovitta/Azure-Networking/blob/master/2.3.2-Using-the-Shared-ExpressRoute-with-Hub-and-Spoke-Pattern.md
-	        - name: Using the Logical Isolation of ExpressRoute Pattern
-                  href: /alvarovitta/Azure-Networking/blob/master/2.3.3-Using-the-Logical-Isolation-of-ExpressRoute-Pattern.md
-	        - name: Using the Logical Isolation of ExpressRoute with Hub and Spoke Pattern
-                  href: /alvarovitta/Azure-Networking/blob/master/2.3.4-Using-the-Logical-Isolation-of-ExpressRoute-with-Hub-and-Spoke-Pattern.md
-
+	items:
+              - name: Using the Shared ExpressRoute Pattern
+                href: /alvarovitta/Azure-Networking/blob/master/2.3.1-Using-the-Shared-ExpressRoute-Pattern.md
+              - name: Using the Shared ExpressRoute with Hub and Spoke Pattern
+                href: /alvarovitta/Azure-Networking/blob/master/2.3.2-Using-the-Shared-ExpressRoute-with-Hub-and-Spoke-Pattern.md
+              - name: Using the Logical Isolation of ExpressRoute Pattern
+                href: /alvarovitta/Azure-Networking/blob/master/2.3.3-Using-the-Logical-Isolation-of-ExpressRoute-Pattern.md
+              - name: Using the Logical Isolation of ExpressRoute with Hub and Spoke Pattern
+                href: /alvarovitta/Azure-Networking/blob/master/2.3.4-Using-the-Logical-Isolation-of-ExpressRoute-with-Hub-and-Spoke-Pattern.md
+		
   - name: Planning and Designing Native Azure Networking Patterns
     href: /alvarovitta/Azure-Networking/blob/master/3.0-Planning-and-Designing-Native-Azure-Networking-Patterns.md
     items:
@@ -76,7 +76,7 @@
               - name: Monitoring Network Traffic Flow
                 href: /alvarovitta/Azure-Networking/blob/master/5.1.1-Monitoring-Network-Traffic-Flow.md
               - name: Monitoring Network Health and Performance
-                href: https://github.com/alvarovitta/Azure-Networking/blob/master/5.1.2-Monitoring-Network-Health-and-Performance.md
+                href: /alvarovitta/Azure-Networking/blob/master/5.1.2-Monitoring-Network-Health-and-Performance.md
               - name: Monitoring Network Infrastructure Operations
                 href: /alvarovitta/Azure-Networking/blob/master/5.1.3-Monitoring-Network-Infrastructure-Operations.md
               - name: Top 5 Alerts for Azure Network Operation
