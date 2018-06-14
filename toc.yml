@@ -18,7 +18,7 @@
         href: /alvarovitta/Azure-Networking/blob/master/2.2-Using-a-Point-to-Site-VPN-Pattern.md
       - name: Using the ExpressRoute Pattern
         href: /alvarovitta/Azure-Networking/blob/master/2.3-Using-the-ExpressRoute-Pattern.md
-	items:
+items:
               - name: Using the Shared ExpressRoute Pattern
                 href: /alvarovitta/Azure-Networking/blob/master/2.3.1-Using-the-Shared-ExpressRoute-Pattern.md
               - name: Using the Shared ExpressRoute with Hub and Spoke Pattern
