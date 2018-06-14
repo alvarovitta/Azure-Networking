@@ -27,7 +27,6 @@
                 href: /alvarovitta/Azure-Networking/blob/master/2.3.3-Using-the-Logical-Isolation-of-ExpressRoute-Pattern.md
               - name: Using the Logical Isolation of ExpressRoute with Hub and Spoke Pattern
                 href: /alvarovitta/Azure-Networking/blob/master/2.3.4-Using-the-Logical-Isolation-of-ExpressRoute-with-Hub-and-Spoke-Pattern.md
-		
   - name: Planning and Designing Native Azure Networking Patterns
     href: /alvarovitta/Azure-Networking/blob/master/3.0-Planning-and-Designing-Native-Azure-Networking-Patterns.md
     items:
